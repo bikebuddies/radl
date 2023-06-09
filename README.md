@@ -1,5 +1,7 @@
 # BikeBuddies
 
+Simon Damarow, Miriam Kirschner, Laura Saxer
+
 VU Geoinformatik: Web mapping (Sommersemester 2023) – Konzept zum Gruppenprojekt
 Projektgruppe: Simon Damarow, Miriam Kirschner, Laura Saxer
 09. Juni 2023
